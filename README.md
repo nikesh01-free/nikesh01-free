@@ -220,7 +220,7 @@ The app helps:
 
 | | |
 |---|---|
-| 🎓 **BCA** | Bachelor of Computer Applications *(In Progress)* |
+| 🎓 **BCA** | Bachelor of Computer Applications *(Completed)* |
 | 💼 **Internship** | Flutter Development — TOPS Technologies |
 
 ---
