@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nikesh Prajapati 👋
 
-### Flutter Developer · Mobile App Developer · BCA Student
+### Flutter Developer · Mobile App Developer · BCA Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
 [![Email](https://img.shields.io/badge/Email-pnikesh223@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
@@ -14,182 +14,107 @@
 
 ## 👨‍💻 About Me
 
-I'm a Flutter developer from India passionate about building **clean, scalable, and user-friendly mobile applications** using Flutter & Dart.
+I'm a Flutter developer from Ahmedabad, India, focused on building **clean, scalable, and user-friendly mobile applications** with Flutter & Dart.
 
-I enjoy creating real-world applications and educational products that solve practical problems — from medicine management tools to kid-friendly learning games.
+I enjoy turning real-world problems — B2B ordering, subscriptions, offline habit tracking — into polished, working apps, and I actively use AI tools as part of my development workflow to plan, build, and debug faster without compromising code quality.
 
 - 🔭 Currently building **Kiddo Runner: Math & Words** — an educational runner game for kids
-- 🌱 Deepening my skills in **Flame Engine, Clean Architecture & Offline-first systems**
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-- 💼 Completed Flutter internship at **TOPS Technologies**
-- ⚡ Fun fact: I love blending education with interactive UI/UX design
+- 🌱 Deepening my skills in **Flame Engine, Clean Architecture & offline-first systems**
+- 🎓 BCA (Bachelor of Computer Applications) — 2023–2026
+- 💼 Completed a Flutter Developer internship at **TOPS Technologies**
+- 🤖 Practicing AI-assisted development — using AI tools for planning, code generation, debugging, and review (all output manually tested and validated)
+- 📫 Open to internships, freelance work, and collaboration on Flutter projects
 
 ---
 
 ## 🛠 Tech Stack
 
-### Mobile Development
+**Mobile Development**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Backend & Database
+**Backend & Database**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-F7B93E?style=for-the-badge&logoColor=black)
 
-### Tools & Platforms
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase Console](https://img.shields.io/badge/Firebase_Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Core Concepts**
+
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI_Design-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Role-Based Auth](https://img.shields.io/badge/Role--Based_Authentication-4285F4?style=for-the-badge&logoColor=white)
+![Reusable Widgets](https://img.shields.io/badge/Reusable_Widgets-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Debugging & Testing](https://img.shields.io/badge/Debugging_%26_Testing-3DDC84?style=for-the-badge&logoColor=white)
+
+**AI-Assisted Development**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_(AI--assisted_integration)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+> I use ChatGPT for planning and documentation (PRDs, tech stack, architecture), Antigravity for AI-assisted coding, and Claude for debugging, testing support, and code review — Supabase backend integration in my projects was implemented with AI assistance and manually reviewed/tested.
 
 ---
+
 ## 🚀 Featured Projects
 
----
+### 💊 [Paras Medicine Distributor App](https://github.com/nikesh01-free/parasmedicineapp-b2b)
+> B2B pharmaceutical ordering platform connecting distributors and retailers.
 
-# 🎮 Kiddo Runner: Math & Words
+- Role-based authentication with separate **Admin** and **Retailer** dashboards
+- Real-time inventory & order management using **Supabase** (live stock tracking, order status sync)
+- Sales analytics and inventory monitoring dashboard for admins
+- Reusable Flutter widgets and responsive UI for streamlined order workflows
 
-> An offline-first educational runner game designed to make learning fun and interactive for children.
-
-### 📌 Project Purpose
-
-Most educational apps feel boring because learning and gameplay are usually separate.
-Kiddo Runner solves this by combining math and spelling questions with runner-style gameplay.
-
-The goal is to help kids improve:
-
-* Basic math skills
-* Spelling & word recognition
-* Focus and reaction speed
-* Learning consistency through rewards
-
-### ⚙️ Core Features
-
-| Feature                  | Description                                             |
-| ------------------------ | ------------------------------------------------------- |
-| 🧠 Educational Questions | Kids answer math and spelling questions during gameplay |
-| 🏃 Runner Gameplay       | Character movement, obstacles, scoring, and progression |
-| 🎁 Reward System         | Unlock themes, outfits, and accessories                 |
-| 📶 Offline Support       | Fully playable without internet                         |
-| 👦 Age-based Levels      | Questions adjusted for different age groups             |
-| 🔊 Audio Feedback        | Sound effects for better engagement                     |
-| 🎨 Kids UI/UX            | Simple, colorful, and child-friendly interface          |
-
-### 🛠 Technologies Used
-
-`Flutter` `Dart` `Flame Engine` `Hive` `SharedPreferences` `Flame Audio`
-
-### 📚 What I Learned
-
-* Flame Engine game development
-* Offline-first architecture
-* Local storage using Hive
-* Reward system implementation
-* Kids-focused UI/UX design
+`Flutter` `Dart` `Supabase` `Git`
 
 ---
 
-# 💊 Paras Medicine App
+### 🍱 [TiffinMate — Tiffin Subscription App](https://github.com/nikesh01-free/tiffinmate)
+> Dual-role food subscription platform for customers and providers.
 
-> A B2B medicine ordering and management app where distributors manage products and retailers place orders.
+- Separate customer and provider workflows with trial meal requests and monthly subscriptions
+- **Supabase** integration for order tracking, status updates, and reviews
+- Clean, responsive UI with reusable widget architecture and smooth state management
 
-### 📌 Project Purpose
-
-Medicine distributors often handle retailer orders through phone calls, WhatsApp, or manual records.
-Paras Medicine App helps organize this process in one digital system.
-
-The app is designed for:
-
-* Distributors to manage medicines, stock, and orders
-* Retailers to browse products and place orders
-* Faster order handling between distributor and retailer
-* Cleaner product and business workflow management
-
-### 👥 User Roles
-
-| Role                | Purpose                                                |
-| ------------------- | ------------------------------------------------------ |
-| Distributor / Admin | Manages medicines, retailers, orders, and product data |
-| Retailer / User     | Browses medicines and places orders                    |
-
-### ⚙️ Core Features
-
-| Feature                       | Description                                     |
-| ----------------------------- | ----------------------------------------------- |
-| 💊 Medicine Catalog           | Retailers can view available medicines          |
-| 🛒 Order Management           | Retailers can place medicine orders             |
-| 💳 Stripe Payment Integration | Secure online payment handling for orders       |
-| 🧑‍💼 Distributor Admin Panel | Distributor manages products, orders, and users |
-| 📦 Product Management         | Add, update, and manage medicine details        |
-| 👥 Retailer Management        | Manage retailer users and business flow         |
-| 🔍 Search & Filter            | Quickly find medicines from the catalog         |
-| 📱 Responsive UI              | Clean mobile interface for business users       |
-
-### 🛠 Technologies Used
-
-`Flutter` `Dart` `Supabase` `Stripe`
-
-### 📚 What I Learned
-
-* B2B app flow design
-* Admin/user role-based structure
-* Product listing UI
-* Order management concepts
-* Payment integration using Stripe
-* Backend integration with Supabase
-* Business-focused mobile UI/UX
+`Flutter` `Dart` `Supabase` `Git`
 
 ---
 
-# 📱 TiffinMate
+### ✅ [HabitRise — Offline Habit Tracker](https://github.com/nikesh01-free/habitrise)
+> Offline-first productivity app for daily habit tracking.
 
-> A tiffin management and food delivery platform designed for customers, providers, and administrators.
+- Daily habit tracking, streak management, and calendar-based progress visualization
+- Fully offline using **Hive** and **SharedPreferences** for local persistence
+- Water, sleep, and productivity tracking modules with a clean, reliable UI
 
-### 📌 Project Purpose
+`Flutter` `Dart` `Hive` `SharedPreferences` `Git`
 
-Many local tiffin services still manage orders manually through calls and WhatsApp messages.
-TiffinMate was designed to simplify food ordering, provider management, and delivery handling through a centralized app system.
+---
 
-The app helps:
+### 🎮 Kiddo Runner: Math & Words *(In Progress)*
+> Offline-first educational runner game combining math & spelling practice with gameplay.
 
-* Customers discover and order tiffin meals
-* Providers manage meals, pricing, and availability
-* Admins manage platform operations
-* Local food businesses move from manual work to digital management
+- Runner-style gameplay with math/spelling questions, rewards, and age-based difficulty
+- Fully offline using **Hive** for local storage
+- Built with **Flame Engine** — learning game dev architecture and kid-focused UI/UX
 
-### 👥 User Roles
+`Flutter` `Dart` `Flame Engine` `Hive` `SharedPreferences`
 
-| Role     | Purpose                                              |
-| -------- | ---------------------------------------------------- |
-| Customer | Browses meals and places orders                      |
-| Provider | Adds meals, manages availability, and handles orders |
-| Admin    | Manages users, providers, and platform data          |
-
-### ⚙️ Core Features
-
-| Feature                     | Description                                      |
-| --------------------------- | ------------------------------------------------ |
-| 🍱 Meal Listing             | Customers can browse available tiffin meals      |
-| 🛒 Ordering Flow            | Customers can place meal orders                  |
-| 🧑‍🍳 Provider Dashboard    | Providers manage meals, prices, and availability |
-| 📍 Delivery Area Management | Providers define where delivery is available     |
-| 🔐 Authentication System    | Login and user management                        |
-| 🛠 Admin Controls           | Admin handles users, providers, and app data     |
-| 🎨 Clean UI                 | Simple and mobile-friendly interface             |
-
-### 🛠 Technologies Used
-
-`Flutter` `Dart` `Supabase`
-
-### 📚 What I Learned
-
-* Multi-role application structure
-* Authentication workflows
-* Database-connected Flutter apps
-* Provider/customer business logic
-* Real-world app planning
-
+---
 
 ## 📊 GitHub Stats
 
@@ -211,7 +136,7 @@ The app helps:
 
 - Advanced Flutter patterns & performance optimization
 - Game development with **Flame Engine**
-- **Clean Architecture** & scalable state management
+- Clean Architecture & scalable state management
 - Offline-first app systems
 
 ---
@@ -220,14 +145,14 @@ The app helps:
 
 | | |
 |---|---|
-| 🎓 **BCA** | Bachelor of Computer Applications *(Completed)* |
-| 💼 **Internship** | Flutter Development — TOPS Technologies |
+| 🎓 **BCA** | Bachelor of Computer Applications — PD Pandya Institute, Ahmedabad *(2023–2026)* |
+| 💼 **Internship** | Flutter Developer — TOPS Technologies, Ahmedabad *(Dec 2025 – Jun 2026)* |
 
 ---
 
 <div align="center">
 
-*Open to collaboration on Flutter projects, educational apps, and mobile UI/UX work.*
+*Open to internships, freelance work, and collaboration on Flutter projects, AI-assisted apps, and mobile UI/UX.*
 
 📧 [pnikesh223@gmail.com](mailto:pnikesh223@gmail.com) · [LinkedIn](https://linkedin.com/in/nikesh-prajapati-8aa151352)
 
