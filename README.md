@@ -118,13 +118,11 @@ class NikeshPrajapati extends FlutterDeveloper {
 
 </div>
 
-
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
@@ -159,7 +157,7 @@ class NikeshPrajapati extends FlutterDeveloper {
 | | Details |
 |---|---|
 | 🎓 **BCA** | Bachelor of Computer Applications — PD Pandya Institute, Ahmedabad *(2023–2026)* |
-| 💼 **Internship** | Flutter Developer Intern — TOPS Technologies, Ahmedabad *(Dec 2025 – Jun 2026)* |
+| 📚 **Training** | Flutter Developer Training — TOPS Technology, Ahmedabad *(Dec 2025 – Jun 2026)* |
 
 </div>
 
@@ -169,7 +167,7 @@ class NikeshPrajapati extends FlutterDeveloper {
 
 <div align="center">
 
-*Open to Flutter internships, freelance projects, and collaboration on mobile apps!*
+*Open to Flutter internships, fresher roles, freelance projects, and collaboration on mobile apps!*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
