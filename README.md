@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nikeshprajapati.in-171717?style=flat-square&logo=vercel&logoColor=white)](https://nikeshprajapati.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-workers.dev-000000?style=flat-square&logo=cloudflare&logoColor=white)](https://nikesh-flutter-dev.nikeshprajapati.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh_Prajapati-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
 [![Email](https://img.shields.io/badge/Email-pnikesh223@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nikesh01--free-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikesh01-free)
@@ -13,7 +13,7 @@
 
 <br/>
 
-🔗 **Portfolio Website:** [nikeshprajapati.in](https://nikeshprajapati.in)
+🔗 **Portfolio Website:** [nikesh-flutter-dev.nikeshprajapati.workers.dev](https://nikesh-flutter-dev.nikeshprajapati.workers.dev/)
 
 </div>
 
@@ -28,7 +28,7 @@ class NikeshPrajapati extends FlutterDeveloper {
   final String location  = "Ahmedabad, Gujarat, India 🇮🇳";
   final String degree    = "BCA — PD Pandya Institute (2023–2026)";
   final String email     = "pnikesh223@gmail.com";
-  final String portfolio = "https://nikeshprajapati.in";
+  final String portfolio = "https://nikesh-flutter-dev.nikeshprajapati.workers.dev/";
   
   final List<String> currentlyBuilding = [
     "🤖 FlutterPrep AI — AI-powered interview practice platform",
@@ -176,10 +176,14 @@ Here are my featured Flutter mobile applications (designed with clean architectu
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nikeshprajapati.in)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=flat-square&logo=cloudflare&logoColor=white)](https://nikesh-flutter-dev.nikeshprajapati.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikesh01-free)
+
+<br/><br/>
+
+🔗 **Portfolio Website:** [nikesh-flutter-dev.nikeshprajapati.workers.dev](https://nikesh-flutter-dev.nikeshprajapati.workers.dev/)
 
 </div>
 
