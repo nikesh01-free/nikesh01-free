@@ -1,24 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6AF5,100:4FD1C5&height=200&section=header&text=Nikesh%20Prajapati&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20BCA%20Graduate&descAlignY=55&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:000000&height=180&section=header&text=Nikesh%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Developer%20•%20Cross-Platform%20Mobile%20Engineer&descAlignY=62&descSize=16&animation=fadeIn"/>
 
-</div>
+<br/>
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-nikeshprajapati.in-171717?style=flat-square&logo=vercel&logoColor=white)](https://nikeshprajapati.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh_Prajapati-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
+[![Email](https://img.shields.io/badge/Email-pnikesh223@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nikesh01--free-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikesh01-free)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=7C6AF5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Flutter+Developer+from+Ahmedabad+%F0%9F%87%AE%F0%9F%87%B3;Building+Cross-Platform+Mobile+Apps+%F0%9F%93%B1;Open+to+Flutter+Internships+%26+Freelance+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
-[![Email](https://img.shields.io/badge/Email-pnikesh223@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nikesh01--free-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikesh01-free)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nikesh01-free&style=for-the-badge&color=7C6AF5&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=nikesh01-free&style=flat-square&color=0070f3&label=PROFILE+VIEWS)
 
 </div>
 
@@ -29,106 +20,95 @@
 ```dart
 class NikeshPrajapati extends FlutterDeveloper {
   
-  final String name     = "Nikesh Prajapati";
-  final String location = "Ahmedabad, Gujarat, India 🇮🇳";
-  final String degree   = "BCA — PD Pandya Institute (2023–2026)";
-  final String email    = "pnikesh223@gmail.com";
+  final String name      = "Nikesh Prajapati";
+  final String location  = "Ahmedabad, Gujarat, India 🇮🇳";
+  final String degree    = "BCA — PD Pandya Institute (2023–2026)";
+  final String email     = "pnikesh223@gmail.com";
+  final String portfolio = "https://nikeshprajapati.in";
   
   final List<String> currentlyBuilding = [
-    "🤖 FlutterPrep AI — AI Interview Practice App",
-    "🎮 Kiddo Runner: Math & Words (Flame Engine)",
+    "🤖 FlutterPrep AI — AI-powered interview practice platform",
+    "🎮 Kiddo Runner — Gamified education client built in Flame Engine"
   ];
   
   final List<String> learning = [
-    "Flame Engine & Game Dev Architecture",
-    "Clean Architecture & Scalable State Management",
-    "Offline-first App Systems",
-    "Advanced Flutter Performance Optimization",
+    "Flame Engine & Game Development Architecture",
+    "Clean Architecture & Scalable State Management (BLoC/Riverpod)",
+    "Offline-first sync logic (Hive, SQLite)",
+    "Flutter render cycle & performance optimization",
   ];
   
   final String funFact = "I use AI as a superpower 🤖 — not a shortcut!";
-  
-  @override
-  String toString() => "Open to Flutter Internships & Freelance Work! 🚀";
 }
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Toolbox
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile Development</h4>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Responsive_UI-0175C2?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Custom_Widgets-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Architecture & State</h4>
+      <img src="https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clean_Architecture-68D391?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SOLID_Principles-4FD1C5?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Backend & Databases</h4>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hive_DB-68D391?style=flat-square&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔧 Tools & Workflows</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-**Mobile Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend & Database**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase Console](https://img.shields.io/badge/Firebase_Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Core Flutter Concepts**
-
-![Provider](https://img.shields.io/badge/Provider_State_Mgmt-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Role Based Auth](https://img.shields.io/badge/Role--Based_Auth-4285F4?style=for-the-badge&logoColor=white)
-![Push Notifications](https://img.shields.io/badge/Push_Notifications-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![Offline First](https://img.shields.io/badge/Offline--First_Apps-68D391?style=for-the-badge&logoColor=white)
-![Reusable Widgets](https://img.shields.io/badge/Reusable_Widgets-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**AI-Assisted Development**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-7C6AF5?style=for-the-badge&logoColor=white)
-
-> 💡 I use AI tools for planning, code generation, debugging, and review — all output is manually tested and validated.
-
-</div>
+> 💡 **Development Philosophy:** I use AI-assisted tools for architectural planning, debugging, and code review — all production output is manually tested, structured, and refactored.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
+Here are my featured Flutter mobile applications (designed with clean architecture and modern backend stacks):
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikesh01-free&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=7C6AF5&icon_color=4FD1C5&text_color=ffffff" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh01-free&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C6AF5&text_color=ffffff" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=nikesh01-free&theme=tokyonight&hide_border=true&background=0D1117&ring=7C6AF5&fire=4FD1C5&currStreakLabel=7C6AF5" width="600"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikesh01-free&bg_color=0D1117&color=7C6AF5&line=4FD1C5&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| 🛒 **One Basket** | Full B2C Mobile Commerce Platform with cart state, Stripe payment gateway, and Supabase cloud. | Flutter, Riverpod, Supabase, Stripe, Go Router | [Codebase ↗](https://github.com/nikesh01-free/one_basket_ecommerce_app) |
+| 💊 **Paras Medicine** | B2B distributor ordering and inventory management system for pharmaceutical operations. | Flutter, Provider, Supabase, Real-time DB | [Codebase ↗](https://github.com/nikesh01-free/parasmedicineapp-b2b-) |
+| 🍱 **TiffinMate** | Local food subscription discovery platform with location-based search and daily scheduling engines. | Flutter, Provider, Supabase, Geolocator | [Codebase ↗](https://github.com/nikesh01-free/tiffinmate) |
+| 📈 **HabitRise** | Productivity calendar tracking app with visual FL Chart progress and offline Hive DB caching. | Flutter, Riverpod, Hive DB, FL Chart | [Codebase ↗](https://github.com/nikesh01-free/habitrise) |
+| 📰 **News App** | Fast-loading client integrating NewsAPI with image caching and async Dart streams. | Flutter, Dart, Provider, REST API | [Codebase ↗](https://github.com/nikesh01-free/news_app) |
+| 💬 **Chat App** | Real-time messaging application with Cloud Firestore streams and secure Firebase Auth. | Flutter, Dart, Firebase Auth, Cloud Firestore | [Codebase ↗](https://github.com/nikesh01-free/chat_app) |
 
 ---
 
-## 🐍 Contribution Snake
+## 🎓 Education & Experience
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
-</picture>
+| Timeline | Milestone | Organization |
+| :--- | :--- | :--- |
+| **2023 – 2026** | 🎓 **Bachelor of Computer Applications (BCA)** | PD Pandya Institute of Computer Application |
+| **2025 – 2026** | 💼 **Flutter Developer Intern** | TOPS Technology, Ahmedabad |
 
 </div>
 
@@ -150,14 +130,35 @@ class NikeshPrajapati extends FlutterDeveloper {
 
 ---
 
-## 🎓 Education & Experience
+## 📊 GitHub Stats
 
 <div align="center">
 
-| | Details |
-|---|---|
-| 🎓 **BCA** | Bachelor of Computer Applications — PD Pandya Institute, Ahmedabad *(2023–2026)* |
-| 📚 **Training** | Flutter Developer Training — TOPS Technology, Ahmedabad *(Dec 2025 – Jun 2026)* |
+<img src="https://github-readme-stats.vercel.app/api?username=nikesh01-free&show_icons=true&bg_color=0d1117&title_color=0070f3&icon_color=0070f3&text_color=c9d1d9&hide_border=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh01-free&layout=compact&bg_color=0d1117&title_color=0070f3&text_color=c9d1d9&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nikesh01-free&background=0d1117&ring=0070f3&fire=0070f3&currStreakLabel=0070f3&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" width="600"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikesh01-free&bg_color=0d1117&color=0070f3&line=0070f3&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikesh01-free/nikesh01-free/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikesh01-free/nikesh01-free/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/nikesh01-free/nikesh01-free/output/github-snake-light.svg">
+</picture>
 
 </div>
 
@@ -167,11 +168,14 @@ class NikeshPrajapati extends FlutterDeveloper {
 
 <div align="center">
 
-*Open to Flutter internships, fresher roles, freelance projects, and collaboration on mobile apps!*
+*Open to Flutter full-time roles, fresher positions, freelance projects, and mobile collaborations!*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikesh01-free)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nikeshprajapati.in)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-prajapati-8aa151352)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pnikesh223@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikesh01-free)
 
 </div>
 
@@ -179,6 +183,6 @@ class NikeshPrajapati extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1C5,100:7C6AF5&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:171717&height=80&section=footer&animation=fadeIn"/>
 
 </div>
